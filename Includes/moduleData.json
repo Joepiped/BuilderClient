@@ -1,0 +1,16 @@
+{
+    "Modules": [
+        {
+            "Name": "Banner Builder",
+            "Description": "Build Banners",
+            "ScriptURL": "/BannerBuilder.app/Contents/Resources/Banner\ Builder/Banner-Builder/BannerBuilder.jsx",
+            "iconURL": "/BannerBuilder.app/Contents/Resources/Banner\ Builder/Banner-Builder/includes/dbBuilderIcon.png"
+        },
+        {
+            "Name": "Banner Builder2",
+            "Description": "Build Banners",
+            "ScriptURL": "/BannerBuilder.app/Contents/Resources/Banner\ Builder/Banner-Builder/BannerBuilder.jsx",
+            "iconURL": "/BannerBuilder.app/Contents/Resources/Banner\ Builder/Banner-Builder/includes/dbBuilderIcon.png"
+        }
+    ]
+}
