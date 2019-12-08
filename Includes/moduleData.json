@@ -2,15 +2,38 @@
     "Modules": [
         {
             "Name": "Banner Builder",
-            "Description": "Build Banners",
-            "ScriptURL": "/BannerBuilder.app/Contents/Resources/Banner\ Builder/Banner-Builder/BannerBuilder.jsx",
-            "iconURL": "/BannerBuilder.app/Contents/Resources/Banner\ Builder/Banner-Builder/includes/dbBuilderIcon.png"
+            "Description": "Illustrator Scritp to Build Single and Double Sided Banners. Add hems, Add Pole Pockets, Add Grommets.  Version 1.1 includes the option to scale.",
+            "Version": 1,
+            "ScriptURL": "/BannerBuilder.app/Contents/Resources/BannerBuilder/BannerBuilder.jsx",
+            "iconURL": "/BannerBuilder.app/Contents/Resources/BannerBuilder/includes/dbBuilderIcon_small.png"
         },
         {
             "Name": "Banner Builder2",
-            "Description": "Build Banners",
-            "ScriptURL": "/BannerBuilder.app/Contents/Resources/Banner\ Builder/Banner-Builder/BannerBuilder.jsx",
-            "iconURL": "/BannerBuilder.app/Contents/Resources/Banner\ Builder/Banner-Builder/includes/dbBuilderIcon.png"
+            "Description": "Build Banners2",
+            "Version": 2,
+            "ScriptURL": "/BannerBuilder2.app/Contents/Resources/BannerBuilder/BannerBuilder.jsx",
+            "iconURL": "/BannerBuilder.app/Contents/Resources/BannerBuilder/includes/dbBuilderIcon_small.png"
+        },
+        {
+            "Name": "Banner Builder3",
+            "Description": "Build Banners3",
+            "Version": 3,
+            "ScriptURL": "/BannerBuilder3.app/Contents/Resources/BannerBuilder/BannerBuilder.jsx",
+            "iconURL": "/BannerBuilder.app/Contents/Resources/BannerBuilder/includes/dbBuilderIcon_small.png"
+        },
+        {
+            "Name": "Banner Builder4",
+            "Description": "Build Banners4",
+            "Version": 3,
+            "ScriptURL": "/BannerBuilder3.app/Contents/Resources/BannerBuilder/BannerBuilder.jsx",
+            "iconURL": "/BannerBuilder.app/Contents/Resources/BannerBuilder/includes/dbBuilderIcon_small.png"
+        },
+        {
+            "Name": "Banner Builder5",
+            "Description": "Build Banners5",
+            "Version": 3,
+            "ScriptURL": "/BannerBuilder3.app/Contents/Resources/BannerBuilder/BannerBuilder.jsx",
+            "iconURL": "/BannerBuilder.app/Contents/Resources/BannerBuilder/includes/dbBuilderIcon_small.png"
         }
     ]
 }
